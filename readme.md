@@ -3,18 +3,18 @@ A command processor, receive commands from external network connections and send
 in an asynchroneous & multithread way to files and to console
 
 ## Server run
-   bulk_server <port> <block_size> <ip_address>
+   bulk_server <_port> <_block_size> <_ip_address>
 
-or bulk_server <port> <block_size>
+or bulk_server <_port> <_block_size>
 
-or bulk_server <port>
+or bulk_server <_port>
 
 or bulk_server 
 
 CTRL+C - stop operation
 
 ## Client run
-   client <commands_start_number>
+   client <_commands_start_number>
 
 or client
 
